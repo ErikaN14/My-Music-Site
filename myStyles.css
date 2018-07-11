@@ -1,0 +1,32 @@
+h1 {
+  color:  DeepPink;
+  font-size:50px;
+  text-align: center;
+}
+h2 {
+  color: MediumSeaGreen;
+  font-size: 24px;
+  text-align: center;
+}
+h3 {
+  color: Purple;
+  font-size: 24px;
+  text-align: center;
+}
+body {
+    background-image:url("http://www.zingerbug.com/Backgrounds/background_images/tie_dye_watermark_seamless.jpg");
+    background-repeat: no-repeat;
+    background-size: 140% 100%;
+}
+h4 {
+  color: Violet;
+  text-align: center;
+  font-size: 24px;
+}
+h5 {
+  text-align: center;
+}
+h6 {
+  text-align: center;
+  font-size: 60px;
+}
